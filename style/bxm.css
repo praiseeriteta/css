@@ -1,0 +1,71 @@
+.Memory{
+    border: 40px red solid;
+    padding: 50px;
+    margin: 50px;
+}
+.brown{
+    color: tomato;
+    border-top: 2px solid;
+}
+.purple{
+    border-radius: 50%;
+}
+
+
+.Blindspot{
+    border: 40px blue solid;
+    padding-top: 50px;
+    margin-top: 100px;
+}
+.red{
+    color: green;
+    border-left: 2px solid  
+}
+.bone{
+    border-radius: 0 50%;
+}
+
+.Black{
+    border: 40px purple solid;
+    padding-right: 55px;
+    margin-right: 55px;
+}
+.pink{
+    color: cyan;
+    border-right: 2px solid
+}
+.pride{
+    border-radius: 0% 50%;
+}
+
+
+.Blood{
+    border: 40px black solid;
+    padding-left: 60px;
+    margin-left: 60px;
+}
+.green{
+    color: darkmagenta;
+    border: 2px solid
+}
+.devil{
+    border-radius: 0% 0% 0% 50%;
+}
+
+
+Onepiece{
+    border: 40px orangered solid;
+    padding-bottom: 80px;
+    margin-bottom: 80px;
+}
+.blue{
+    color: crimson;
+    border-bottom: 2px solid
+}
+.home{
+    border-radius: 0% 50% 050%;
+}
+img{
+    width: 300px;
+    height: 300px;
+}

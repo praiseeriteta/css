@@ -1,0 +1,13 @@
+.rome{
+    height: 200px;
+    width: 200px;
+    padding: 200px;
+    background-color: crimson;
+    float: left;
+}
+.france{
+    height: 600px;
+    width: 600px;
+    background-color: blue;
+    float: right;
+}

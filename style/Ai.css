@@ -1,0 +1,45 @@
+html{
+    background-color: cornflowerblue;
+}
+img{
+    width: 100%;
+    border-radius: 20px 20px 0px 0;
+}
+.container{
+    width: 90%;
+    margin: 0 auto;
+    border-radius: 20px 2opx 30px;
+}
+.gallery{
+    width: 16%;
+    margin: 2%;
+    border: 20px 30px 40px black;
+    float: left;
+    border-radius: 20px 30px 40px;
+    box-shadow: 2px 3px 5px red;
+}
+.gallery:hover{
+    /* opacity: 0.20; */
+    background-color: darkblue;
+    box-shadow: 2px 3px 5px black;
+}
+.explanation{
+    padding: 10px;
+    color:black;
+}
+.pagination{
+    display: inline-block;
+}
+.pagination a{
+    color: brown;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+.pagination a.active{
+    background-color: crimson;
+    color-scheme: pink;
+}
+.pagination a:hover:not(.active){
+    background-color: darkgreen;
+}

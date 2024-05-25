@@ -1,0 +1,150 @@
+.container{
+    height: 1200px;
+    width: 90%;
+    background-color: black;
+    margin: 0 auto;
+}
+.header{
+    height: 300px;
+    width: 100%;
+    background-color: brown;
+}
+.nav{
+    height: 50px;
+    width: 100%;
+    background-color: blueviolet;
+}
+.body{
+    height: 700px;
+    width: 100%;
+    background-color: coral;
+}
+.prime1{
+    height: 700px; 
+    width: 25%;
+    background-color: brown;
+    float: left;
+}
+.crime1{
+    height: 233.3px;
+    width: 100%;
+    background-color:red;
+}
+.crime2{
+    height: 233.3px;
+    width: 100%;
+    background-color: burlywood;
+}
+.crime3{
+    height: 233.3px;
+    width: 100%;
+    background-color: chartreuse;
+}
+.prada1{
+    height: 233.6px;
+    width: 50%;
+    background-color: darkviolet;
+    float: right;
+}
+
+.gas1{
+    height:116.8px; 
+    width: 100%;
+    background-color: black;
+}
+.gas1 img{
+    height: 116.8px;
+    width: 100%;
+}
+
+.gas2{
+    height: 116.8px;
+    width: 100%;
+    background-color: beige;
+}
+.gas2 img{
+    height: 116.8px;
+    width: 100%;
+}
+.prada2{
+    height: 233.6px;
+    width: 50%;
+    background-color: gold;
+    float: left;
+}
+.prime2{
+    height: 700px;
+    width: 25%;
+    background-color: aqua;
+    float: right;
+}
+.death1{
+    height: 233.3px;
+    width: 100%;
+    background-color: crimson;   
+}
+.fig1{
+    height: 233.6px;
+    width: 50%;
+    background-color: dimgrey;
+    float: right;
+}
+.era1{
+    height: 116.6px;
+    width: 100%;
+    background-color: black;
+}
+.era2{
+    height: 116.6px;
+    width: 100%;
+    background-color: cadetblue;
+}
+.fig2{
+    height: 233.6px;
+    width: 50%;
+    background-color: deeppink;
+    float: left;
+}
+.death2{
+    height: 233.3px;
+    width: 100%;
+    background-color: darkmagenta;
+}
+.death3{
+    height: 233.3px;
+    width: 100%;
+    background-color: darksalmon;
+}
+.tree1{
+    height: 233.6px;
+    width: 50%;
+    background-color: cornflowerblue;
+    float: right;
+}
+.fear1{
+    height: 77.7px;
+    width: 100%;
+    background-color: brown;
+}
+.fear2{
+    height: 77.7px;
+    width: 100%;
+    background-color: blueviolet;
+
+}
+.fear3{
+    height: 77.7px;
+    width: 100%;
+    background-color: cadetblue;
+}
+.tree2{
+    height: 233.6px;
+    width: 50%;
+    background-color: deeppink;
+    float: left;
+}
+.footer{
+    height: 150px;
+    width: 100%;
+    background-color: indigo;
+}

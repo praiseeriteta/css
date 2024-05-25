@@ -1,0 +1,44 @@
+.container{
+    height: 1200px;
+    width: 90%;
+    /* background-color: chartreuse; */
+    margin: 0 auto;
+}
+.header{
+    height: 300px;
+    width: 100%;
+    background-color: aqua;
+}
+.nav{
+    height: 50px;
+    width: 100%;
+    background-color: chocolate;
+}
+.body{
+    height: 700px;
+    width: 100%;
+    background-color: blueviolet;
+}
+.body2{
+    height: 700px;
+    width: 33.3%;
+    background-color: aqua;
+    float: left;
+}
+.body3{
+    height: 700px;
+    width: 33.3%;
+    background-color: crimson;
+    float: left;
+}
+.body4{
+    height: 700px;
+    width: 33.3%;
+    background-color: black;
+    float: right;
+}
+.footer{
+    height: 150px;
+    width: 100%;
+    background-color:red
+}

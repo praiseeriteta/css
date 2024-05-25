@@ -1,0 +1,40 @@
+body{
+    background-image: url(../image/img10.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.form-input{
+    width: 70%;
+    height: 35px;
+    border-radius: 10px;
+    margin-bottom: auto;
+    border: none;
+    background-color:white;
+}
+.form{
+    margin-left: 30%;
+    margin-top: 10%;
+}
+h1{
+    text-align: center;
+    margin-right: 50%;
+}
+.textarea{
+    width: 70%;
+    height: 35px;
+    border-radius: 10px;
+    margin-bottom: auto;
+    border: none;
+
+}
+.button{
+    height: 30px;
+    width: 10%;
+    padding: 10px;
+    border-radius: 10px;
+    border: 10px;
+    background-color: cadetblue;
+    color: brown;
+    text-shadow: 2px 3px 5px black;    
+}

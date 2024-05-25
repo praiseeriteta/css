@@ -1,0 +1,110 @@
+.container{
+    height: 1200px;
+    width: 90%;
+    background-color:rebeccapurple;
+    margin: 0 auto;
+}
+.header{
+    height: 300px;
+    width: 100%;
+    background-color: pink;
+}
+.nav{
+    height: 50px;
+    width: 100%;
+    background-color: blue;
+}
+.body{
+    height: 700px;
+    width: 100%;
+    background-color: brown;
+}
+.body2{
+    height: 700px;
+    width: 25%;
+    background-color: cadetblue;
+    float: left;
+}
+.fire1{
+    height: 233.3px;
+    width: 100%;
+    background-color: darkgreen;
+}
+.fire2{
+    height: 233.3px;
+    width: 100%;
+    background-color: darkgoldenrod;
+}
+.fire3{
+    height: 233.3px;
+    width: 100%;
+    background-color: darkmagenta;
+}
+.body3{
+    height: 700px;
+    width: 25%;
+    background-color: chartreuse;
+    float: left;
+}
+.war1{
+    height: 233.3px;
+    width: 100%;
+    background-color: blue;
+}
+.war2{
+    height: 233.3px;
+    width: 100%;
+    background-color: black;
+}
+.war3{
+    height: 233.3px;
+    width: 100%;
+    background-color: brown;
+}
+.body4{
+    height: 700px;
+    width: 25%;
+    background-color: burlywood;
+    float: left;
+}
+.earth1{
+   height: 233.3px;
+   width: 100%;
+   background-color: black;
+}
+.earth2{
+    height: 233.3px;
+    width: 100%;
+    background-color: aqua;
+}
+.earht3{
+    height: 233.3px;
+    width: 100%;
+    background-color:red
+}
+.body5{
+    height: 700px;
+    width: 25%;
+    background-color: chocolate;
+    float:left;
+}
+.stone1{
+    height: 233.3px;
+    width: 100%;
+    background-color: firebrick;
+}
+.stone2{
+    height: 233.3px;
+    width: 100%;
+    background-color: deepskyblue;
+}
+.stone3{
+    height: 233.3px;
+    width: 100%;
+    background-color: aqua;
+}
+.footer{
+    height: 150px;
+    width: 100%;
+    background-color: black;
+}
